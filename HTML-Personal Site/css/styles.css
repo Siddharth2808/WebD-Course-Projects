@@ -1,0 +1,20 @@
+body {
+    background-color: cyan;
+  }
+  hr{
+    border-style : dotted none none;
+    border-color: grey;
+    border-width:5px;
+    width:15%;
+  }
+  h1
+  {
+    color: #66BFBF;
+  }
+  h2
+  {
+    color: #66BFBF;
+  }
+  table:hover{
+    background-color: gold;
+  }
